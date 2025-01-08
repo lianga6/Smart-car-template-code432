@@ -1,0 +1,15 @@
+.\build\beep.o: ..\Hardware\beep\beep.c
+.\build\beep.o: ..\Hardware\beep\beep.h
+.\build\beep.o: ..\lib\inc\gpio.h
+.\build\beep.o: ..\lib\sys\msp.h
+.\build\beep.o: ..\lib\sys\msp432p401r.h
+.\build\beep.o: E:\keil5software\software\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\beep.o: ..\lib\sys\msp_compatibility.h
+.\build\beep.o: ..\lib\sys\msp432p401r_classic.h
+.\build\beep.o: ..\lib\Include\core_cm4.h
+.\build\beep.o: ..\lib\Include\core_cmInstr.h
+.\build\beep.o: ..\lib\Include\cmsis_armcc.h
+.\build\beep.o: ..\lib\Include\core_cmFunc.h
+.\build\beep.o: ..\lib\Include\core_cmSimd.h
+.\build\beep.o: ..\lib\sys\system_msp432p401r.h
+.\build\beep.o: ..\lib\inc\delay.h

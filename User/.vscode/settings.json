@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "control.h": "c",
+        "headfile.h": "c",
+        "pid_location.h": "c",
+        "business_process.h": "c",
+        "pid.h": "c",
+        "usart.h": "c",
+        "gpio.h": "c",
+        "sensor.h": "c",
+        "timer_a.h": "c"
+    }
+}

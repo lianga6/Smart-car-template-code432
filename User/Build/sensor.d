@@ -1,0 +1,14 @@
+.\build\sensor.o: ..\Hardware\sensor\sensor.c
+.\build\sensor.o: ..\Hardware\sensor\sensor.h
+.\build\sensor.o: ..\lib\inc\gpio.h
+.\build\sensor.o: ..\lib\sys\msp.h
+.\build\sensor.o: ..\lib\sys\msp432p401r.h
+.\build\sensor.o: E:\keil5software\software\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\sensor.o: ..\lib\sys\msp_compatibility.h
+.\build\sensor.o: ..\lib\sys\msp432p401r_classic.h
+.\build\sensor.o: ..\lib\Include\core_cm4.h
+.\build\sensor.o: ..\lib\Include\core_cmInstr.h
+.\build\sensor.o: ..\lib\Include\cmsis_armcc.h
+.\build\sensor.o: ..\lib\Include\core_cmFunc.h
+.\build\sensor.o: ..\lib\Include\core_cmSimd.h
+.\build\sensor.o: ..\lib\sys\system_msp432p401r.h

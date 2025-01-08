@@ -1,0 +1,15 @@
+.\build\key.o: ..\Hardware\KEY\key.c
+.\build\key.o: ..\Hardware\KEY\key.h
+.\build\key.o: E:\keil5software\software\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\key.o: E:\keil5software\software\ARM\ARMCC\Bin\..\include\stdbool.h
+.\build\key.o: ..\lib\inc\gpio.h
+.\build\key.o: ..\lib\sys\msp.h
+.\build\key.o: ..\lib\sys\msp432p401r.h
+.\build\key.o: ..\lib\sys\msp_compatibility.h
+.\build\key.o: ..\lib\sys\msp432p401r_classic.h
+.\build\key.o: ..\lib\Include\core_cm4.h
+.\build\key.o: ..\lib\Include\core_cmInstr.h
+.\build\key.o: ..\lib\Include\cmsis_armcc.h
+.\build\key.o: ..\lib\Include\core_cmFunc.h
+.\build\key.o: ..\lib\Include\core_cmSimd.h
+.\build\key.o: ..\lib\sys\system_msp432p401r.h
